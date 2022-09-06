@@ -17,5 +17,6 @@ This repository is for codes and models used in the following paper:
 ## Data 
 * Training and test data are not available yet
 
+## Architecture of the latest model
 
 ![ODNet](https://user-images.githubusercontent.com/112989778/188757952-43ea547b-5193-49b1-8214-5adc6fa8cb7d.png)
