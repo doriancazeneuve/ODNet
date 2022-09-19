@@ -2,7 +2,7 @@
 ODNet : Asteroid Occultation Detection Convolutional Neural Network
 
 This repository is for codes and models used in the following paper: 
-[ODNet: A Convolutional Neural Network for Asteroid Occultation Detection](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[ODNet: A Convolutional Neural Network for Asteroid Occultation Detection]()
 (Link to paper not available yet)
 
 ## Description 
